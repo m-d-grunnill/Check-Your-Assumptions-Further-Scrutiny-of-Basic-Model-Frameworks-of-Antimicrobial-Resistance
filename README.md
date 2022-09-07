@@ -16,7 +16,7 @@ Supplementary Materials (SMs) for the article Check Your Assumptions: Further Sc
 * "SME Simulating models stochastically.py" code for simulating the model stochastically and reproducing many of the figures seen in the article.
 
 ##### Directories:
-* "PDF versions of notebooks" Contains pdf versions of jupyter notebooks (.ipynb files).
+* "PDF versions of notebooks" Contains pdf versions of jupyter notebooks (.ipynb files). **Note* the pdf version of "SMA Stable Point Analyses" has produced extra blank pages for certain cells of code.
 * "HTML versions of notebooks" Contains html versions of jupyter notebooks (.ipynb files).
 
 
